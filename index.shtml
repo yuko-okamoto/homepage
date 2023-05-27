@@ -3,7 +3,7 @@
 <TITLE>
 Yuko OKAMOTO's Home Page 
 </TITLE>
-  <META http-equiv="Content-Type" content="text/html; charset=shift_jis">
+  <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </HEAD>
 <BODY BGCOLOR="#ffffdd">
 <IMG SRC="okamoto.jpg"><BR>
@@ -17,61 +17,61 @@ Yuko OKAMOTO's Home Page
 	   </td>
    </tr>
    </CENTER>
-<H1>���{ �S�K�i�������� �䂤�����j</H1>
-���É���w <BR>
-��w�@���w������ <BR>
-�����w���� <BR>
-���_�������w�����iTB�j������ <BR>
+<H1>岡本 祐幸（おかもと ゆうこう）</H1>
+名古屋大学 <BR>
+大学院理学研究科 <BR>
+物理学教室 <BR>
+理論生物化学物理（TB）研究室 <BR>
 <HR>
-		<p>�@�������ۂ̐_��𕨗��w�̌��t�Ő������邱�Ƃ́A���������w�̋��ɂ̖ڕW�̈�ƌ�����ł��낤�B
-		�������ۂ̑����͒`��������Ď��������B�����āA�`�����̑��l�Ȑ����w�I�@�\�͂��̓��ٓI���̍\���Ɛ[���֘A���Ă���B
-		�������O���[�v�ł́A�����e�J�����@�╪�q���͊w�@�ȂǂɊ�Â��v�Z�@�V�~�����[�V�����ɂ���āA�`�������q�̗��̍\���\�����s���Ă���B</p>
-		<p>�@�`�����̗��̍\���͂��̃A�~�m�_�z��̏��݂̂Ō����Ă���ƍL���M�����Ă���B�������A�����̐l��
-		���\�N�ɂ��킽�鐸�͓I�w�͂ɂ��ւ�炸�A���̏��݂̂��g���āA��ꌴ������̍\���\���ɐ���������͏��Ȃ��B
-		����́A�n�ɃG�l���M�[�ɏ���Ԃ������ɑ��݂��邽�߂ɁA�V�~�����[�V�����������ɗ��܂��Ă��܂��āA
-		���R�̍\���i�ŏ��G�l���M�[��ԁj�ɓ��B����̂�����̋Ƃł��邩��ł���B����́A���������w�Ɍ��炸�A
-		���낢��ȕ���ɋ��ʂ̍œK�����̓��ł���A�v�Z��@�̉��P�����ɏd�v�ł���B</p>
-		<p>�@��X�́A�`�����̗��̍\���\�����₻�̑��̐��̕��q�n�̃V�~�����[�V�����ɁA
-		�g���A���T���u���@�iGeneralized-Ensemble Algorithm�j��K�p���邱�Ƃ�񏥂����B<sup>1-9)</sup>
-		��X�͍X�ɋ��͂Ȋg���A���T���u���@���J������ƂƂ��ɁA������l�X�ȑ����R�x���G�n�̃V�~�����[�V�����ɓK�p���Ă���B
+		<p>　生命現象の神秘を物理学の言葉で説明することは、生物物理学の究極の目標の一つと言えるであろう。
+		生命現象の多くは蛋白質を介して実現される。そして、蛋白質の多様な生化学的機能はその特異的立体構造と深く関連している。
+		当研究グループでは、モンテカルロ法や分子動力学法などに基づく計算機シミュレーションによって、蛋白質分子の立体構造予測を行っている。</p>
+		<p>　蛋白質の立体構造はそのアミノ酸配列の情報のみで決っていると広く信じられている。しかし、多くの人の
+		何十年にもわたる精力的努力にも関わらず、その情報のみを使って、第一原理からの構造予測に成功した例は少ない。
+		それは、系にエネルギー極小状態が無数に存在するために、シミュレーションがそれらに留まってしまって、
+		自然の構造（最小エネルギー状態）に到達するのが至難の業であるからである。これは、生物物理学に限らず、
+		いろいろな分野に共通の最適化問題の難問であり、計算手法の改善が特に重要である。</p>
+		<p>　我々は、蛋白質の立体構造予測問題やその他の生体分子系のシミュレーションに、
+		拡張アンサンブル法（Generalized-Ensemble Algorithm）を適用することを提唱した。<sup>1-9)</sup>
+		我々は更に強力な拡張アンサンブル法を開発するとともに、それらを様々な多自由度複雑系のシミュレーションに適用している。
 <br clear="all">
 		</p>
-		<h4>�Q�l����</h4>
+		<h4>参考文献</h4>
 		<ol>
-		<li>���{�S�K, <A HREF="review/busken1.pdf" target="_blank">�u�X�[�p�[�R���s���[�^�[�ɂ�镨���w�F�f���q�_����`���H�w�܂Łv</A> (PDF: 672 KB), <i>��������</i> <b>62</b>, 5����, 231-248 (1994).		
-		<li>���{�S�K, �u��ꌴ������̃^���p�N�����̍\���\���֌����āv, <i>���{�����w�</i> <b>51</b>, 4����, 279-287 (1996).
-		<li>���{�S�K, �u�����e�J�����V�~�����[�V�����ŒT��^���p�N���̐܂��݋@�\�v, <i>��������</i> <b>70</b>, 9����, 719-742 (1998).
-		<li>���{�S�K, �u�����e�J�����V�~�����[�V�����ɂ��^���p�N���̗��̍\���\���v, <i>��������</i> <b>38</b>, 10����, 203-207 (1998).
-			<li>���c�L���A�������㗝�A���{�S�K, �u�g���A���T���u���@�ɂ��^���p�N���̐܂��݃V�~�����[�V�����v, <i>���{�����w�</i> <b>56</b>, 8����, 591-599 (2001).
-			<li>����i�A���{�S�K�i�ҁj, ���w�t�����e�B�ANo. 8�u���̌n�̃R���s���[�^�E�V�~�����[�V�����v(���w���l, 2002), �@<br>
-��Q��<A HREF="review/chemfront-1.pdf" target="_blank">�u�g���A���T���u���̕��@�v</A> (PDF: 768 KB),	<br>		
-��V��<A HREF="review/chemfront-2.pdf" target="_blank">�u�S���q�͌^�̃^���p�N���̃t�H�[���f�B���O�v</A> (PDF: 680 KB).
-<li>���{�S�K, <A HREF="https://www.jstage.jst.go.jp/article/mssj/12/2/12_2_2_6/_pdf" target="_blank">�u�w�g���A���T���u���@�x�̓��W�ɂ������āv </A>, ���q�V�~�����[�V���������� "<i>�A���T���u��</i>" <b>12</b>, 6-7 (2010).
-<li>���{�S�K, �u�g���A���T���u���@�v, <A HREF="http://www.kyoritsu-pub.co.jp/bookdetail/9784320122741" target="_blank"><i>�������R�x�n�̍œK��</i> </A>, �u�v�Z�Ȋw�u���v��X����Q��, pp. 119-241 (�Ë���, ���䗝���i�ҁj, �����o��, 2013).
-<li>���{�S�K, <A HREF="Koho/��philosophia38-okamoto.pdf" target="_blank">�u�g���A���T���u���@�ɂ�鐶�̕��q�n�̌v�Z�@�V�~�����[�V�����v</A>, ���É���w���w���L��<i>��philosophia</i> ��38���A���W�u����̂܂܂̐��̕��q�̎p��ǂ����߂āv��, pp. 8-11 (2020).
+		<li>岡本祐幸, <A HREF="review/busken1.pdf" target="_blank">「スーパーコンピューターによる物理学：素粒子論から蛋白工学まで」</A> (PDF: 672 KB), <i>物性研究</i> <b>62</b>, 5月号, 231-248 (1994).		
+		<li>岡本祐幸, 「第一原理からのタンパク質立体構造予測へ向けて」, <i>日本物理学会誌</i> <b>51</b>, 4月号, 279-287 (1996).
+		<li>岡本祐幸, 「モンテカルロシミュレーションで探るタンパク質の折り畳み機構」, <i>物性研究</i> <b>70</b>, 9月号, 719-742 (1998).
+		<li>岡本祐幸, 「モンテカルロシミュレーションによるタンパク質の立体構造予測」, <i>生物物理</i> <b>38</b>, 10月号, 203-207 (1998).
+			<li>杉田有治、光武亜代理、岡本祐幸, 「拡張アンサンブル法によるタンパク質の折り畳みシミュレーション」, <i>日本物理学会誌</i> <b>56</b>, 8月号, 591-599 (2001).
+			<li>岡崎進、岡本祐幸（編）, 化学フロンティアNo. 8「生体系のコンピュータ・シミュレーション」(化学同人, 2002), 　<br>
+第２章<A HREF="review/chemfront-1.pdf" target="_blank">「拡張アンサンブルの方法」</A> (PDF: 768 KB),	<br>		
+第７章<A HREF="review/chemfront-2.pdf" target="_blank">「全原子模型のタンパク質のフォールディング」</A> (PDF: 680 KB).
+<li>岡本祐幸, <A HREF="https://www.jstage.jst.go.jp/article/mssj/12/2/12_2_2_6/_pdf" target="_blank">「『拡張アンサンブル法』の特集にあたって」 </A>, 分子シミュレーション研究会会誌 "<i>アンサンブル</i>" <b>12</b>, 6-7 (2010).
+<li>岡本祐幸, 「拡張アンサンブル法」, <A HREF="http://www.kyoritsu-pub.co.jp/bookdetail/9784320122741" target="_blank"><i>超多自由度系の最適化</i> </A>, 「計算科学講座」第９巻第２章, pp. 119-241 (古橋武, 笹井理生（編）, 共立出版, 2013).
+<li>岡本祐幸, <A HREF="Koho/理philosophia38-okamoto.pdf" target="_blank">「拡張アンサンブル法による生体分子系の計算機シミュレーション」</A>, 名古屋大学理学部広報誌<i>理philosophia</i> 第38号、特集「ありのままの生体分子の姿を追い求めて」内, pp. 8-11 (2020).
        </ol>
 
 <HR>
 <UL>
-<LI><H2><A HREF="https://www.phys.nagoya-u.ac.jp/docs/HPtemplate_Okamoto_j.pdf"> �v���t�B�[�� </A>  </H2>
-<LI><H2><A HREF="Grew/index.html"> ���c�@�l�O���[��� </A> </H2>
+<LI><H2><A HREF="https://www.phys.nagoya-u.ac.jp/docs/HPtemplate_Okamoto_j.pdf"> プロフィール </A>  </H2>
+<LI><H2><A HREF="Grew/index.html"> 財団法人グルー基金 </A> </H2>
 <LI><H2><A HREF="zadan/zadankai.pdf" target="_blank"> 
-���k��i���w�t�����e�B�ANo. 8�u���̌n�̃R���s���[�^�E�V�~�����[�V�����v, pp. 1-12 (2002). �j</A> </H2>
-<LI><H2><A HREF="HighSchool/index.html"> ���Z���̊F����� </A> </H2>
-<LI><H2><A HREF="cfbk/coffee-break.pdf" target="_blank"> �R�[�q�[�u���[�N </A> </H2>
-<LI><H2><A HREF="NU/index.html"> ����̂��͂Ȃ� </A> </H2>
-<LI><H2><A HREF="Koho/index.html">�L�񎏂Ȃ�</A></H2>
-<LI><H2><A HREF="oldHS/index.html">�������Z���ڂ�b</A></H2>
-<LI><H2><A HREF="IMS/indexj.html">���q������̃z�[���y�[�W</A></H2>
-<LI><H2><A HREF="Fuchs/index.html">�R�[�l����w���w��Wolfgang Fuchs���� </A></H2>
-<LI><H2><A HREF="Softball/index.html">�\�t�g�{�[��</A></H2>
+座談会（化学フロンティアNo. 8「生体系のコンピュータ・シミュレーション」, pp. 1-12 (2002). ）</A> </H2>
+<LI><H2><A HREF="HighSchool/index.html"> 高校生の皆さんへ </A> </H2>
+<LI><H2><A HREF="cfbk/coffee-break.pdf" target="_blank"> コーヒーブレーク </A> </H2>
+<LI><H2><A HREF="NU/index.html"> 名大のおはなし </A> </H2>
+<LI><H2><A HREF="Koho/index.html">広報誌など</A></H2>
+<LI><H2><A HREF="oldHS/index.html">旧制高校こぼれ話</A></H2>
+<LI><H2><A HREF="IMS/indexj.html">分子研時代のホームページ</A></H2>
+<LI><H2><A HREF="Fuchs/index.html">コーネル大学数学科Wolfgang Fuchs教授 </A></H2>
+<LI><H2><A HREF="Softball/index.html">ソフトボール</A></H2>
 <!--
-<LI><H2><A HREF="http://jegog.phys.nagoya-u.ac.jp/~okamoto/Ito/ito.html">�ɓ����j�攌�@��W�E�敶�W</A></H2>
-<LI><H2><A HREF="Ito/ito.html">�ɓ����j�攌�@��W�E�敶�W</A></H2>
+<LI><H2><A HREF="http://jegog.phys.nagoya-u.ac.jp/~okamoto/Ito/ito.html">伊藤光男画伯　画集・画文集</A></H2>
+<LI><H2><A HREF="Ito/ito.html">伊藤光男画伯　画集・画文集</A></H2>
 -->
-<LI><H2><A HREF="Ito/index.html">�ɓ����j�攌�@��W�E�敶�W</A></H2>
-<LI><H2><A HREF="Father/index.html">�W�ނ̏� </A></H2>
-<LI><H2><A HREF="Sugari/index.html">�O�d�����h�s�{�ꗘ���i�ɂق�̗�100�I�j</A></H2>
+<LI><H2><A HREF="Ito/index.html">伊藤光男画伯　画集・画文集</A></H2>
+<LI><H2><A HREF="Father/index.html">晃圃の書 </A></H2>
+<LI><H2><A HREF="Sugari/index.html">三重県尾鷲市須賀利町（にほんの里100選）</A></H2>
 
 </UL>
 
