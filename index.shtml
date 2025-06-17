@@ -3,6 +3,14 @@
 <TITLE>
 Yuko OKAMOTO's Home Page 
 </TITLE>
+<!--
+  <META http-equiv="Content-Type" content="text/html; charset=shift_jis">
+  <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <META http-equiv="Content-Type" content="text/html; charset=UTF-32">
+  <META http-equiv="Content-Type" content="text/html; charset=iso-2022-jp">
+  <META http-equiv="Content-Type" content="text/html; charset=Shift_JISX0213">
+  <META http-equiv="Content-Type" content="text/html; charset=EUC-JP">
+-->
   <META http-equiv="Content-Type" content="text/html; charset=shift_jis">
 </HEAD>
 <BODY BGCOLOR="#ffffdd">
@@ -53,7 +61,10 @@ Yuko OKAMOTO's Home Page
 
 <HR>
 <UL>
+<!--
 <LI><H2><A HREF="https://www.phys.nagoya-u.ac.jp/docs/HPtemplate_Okamoto_j.pdf"> プロフィール </A>  </H2>
+-->
+<LI><H2><A HREF="HP_YukoOkamoto_j.pdf"> プロフィール </A>  </H2>
 <LI><H2><A HREF="Grew/index.html"> 財団法人グルー基金 </A> </H2>
 <LI><H2><A HREF="zadan/zadankai.pdf" target="_blank"> 
 座談会（化学フロンティアNo. 8「生体系のコンピュータ・シミュレーション」, pp. 1-12 (2002). ）</A> </H2>
@@ -76,7 +87,10 @@ Yuko OKAMOTO's Home Page
 </UL>
 
 <HR>
+<!--
 <A HREF="https://www.phys.nagoya-u.ac.jp/docs/HPtemplate_Okamoto_j.pdf">Back to Departmental Homepage</A><BR>
+-->
+<A HREF="HP_YukoOkamoto_j.pdf">Back to Departmental Homepage</A><BR>
 <BR>
 <A HREF="https://sites.google.com/view/tb-phys-nagoya-u/">Back to TB Lab. Homepage</A>
 
