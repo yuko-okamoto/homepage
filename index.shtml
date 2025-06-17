@@ -3,7 +3,12 @@
 <TITLE>
 Yuko OKAMOTO's Home Page 
 </TITLE>
+<!--
   <META http-equiv="Content-Type" content="text/html; charset=shift_jis">
+  <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <META http-equiv="Content-Type" content="text/html; charset=iso-2022-jp">
+-->
+  <META http-equiv="Content-Type" content="text/html; charset=Shift_JISX0213">
 </HEAD>
 <BODY BGCOLOR="#ffffdd">
 <IMG SRC="okamoto.jpg"><BR>
